@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class HelloWorlddd {
     public static void main(String[] args){
-        System.out.println("Hello World!");
+        System.out.println("Hi 2 all!");
 
         int value1 = 2;
         int value2 = 5;
